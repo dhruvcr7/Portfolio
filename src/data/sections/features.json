@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-paint-bucket",
+    "title": "Graphic Design",
+    "content": "We provide the best design by following the latest trends."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Web & Mobile Design",
+    "content": "We Build and customize stunning pages in almost no time."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "Social Media Marketing",
+    "content": "It is a powerful way for businesses of all sizes to reach prospects and customers."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-cart",
+    "title": "E-Commerce Solutions",
+    "content": "An established business or just venturing online, we have solutions tailored for growing your business."
+  }
+]

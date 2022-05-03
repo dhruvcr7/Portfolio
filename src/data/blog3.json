@@ -1,0 +1,13 @@
+[
+  {
+    "id": 3,
+    "title": "Even Microsoft is running an unsupported Windows 11 PC.",
+    "content": "Windows 11 brings tons of great features to play with, but there is no hiding the fact that the operating system left a lot of PCs in the dust with its controversial minimum system requirements. That’s caused folks to find ways to run Windows on unsupported systems, and it looks as though one of Microsoft’s employees has done the same, too. In a recent Windows Insider Webcast, Microsoft employee Claton Hendricks was sharing his screen to showcase...",
+    "image": "/img/blog/b1.jpg",
+    "tags": ["digitaltrends.com", "Tech"],
+    "date": {
+      "day": "27",
+      "month": "April"
+    }
+  }
+]

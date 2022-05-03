@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "lightImage": "/img/images/clients/1.png",
+    "darkImage": "/img/images/clients/1.png",
+    "url": "www.actaddigital.com"
+  },
+  {
+    "id": 2,
+    "lightImage": "/img/images/clients/2.png",
+    "darkImage": "/img/images/clients/2.png",
+    "url": "www.samarthreva.com"
+  },
+  {
+    "id": 3,
+    "lightImage": "/img/images/clients/3.png",
+    "darkImage": "/img/images/clients/3.png",
+    "url": "www.divinneproperty.com"
+  },
+  {
+    "id": 4,
+    "lightImage": "/img/images/clients/4.png",
+    "darkImage": "/img/images/clients/4.png",
+    "url": "www.fitwithkedar.com"
+  },
+  {
+    "id": 5,
+    "lightImage": "",
+    "darkImage": "",
+    "url": "coming soon"
+  },
+  {
+    "id": 6,
+    "lightImage": "",
+    "darkImage": "",
+    "url": "coming soon"
+  },
+  {
+    "id": 7,
+    "lightImage": "",
+    "darkImage": "",
+    "url": "coming soon"
+  },
+  {
+    "id": 8,
+    "lightImage": "",
+    "darkImage": "",
+    "url": "coming soon"
+  }
+]

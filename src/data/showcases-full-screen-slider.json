@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Web", "second": "Development" },
+    "image": "/img/images/works1.png",
+    "sub": "Design"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Graphic", "second": "Degign" },
+    "image": "/img/images/works2.png",
+    "sub": "Design"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Digital", "second": "Marketing" },
+    "image": "/img/images/works3.png",
+    "sub": "Design"
+  }
+]
